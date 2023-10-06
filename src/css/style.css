@@ -1,0 +1,109 @@
+main {
+    background: url(../imagem/bg-repeat.jpg);
+    background-size: contain;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.conteudo {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    position: relative;
+
+}
+
+.conteudo .descricao {
+    width: 287px;
+    margin: 20px 62px ;
+}
+
+.conteudo .descricao h1 {
+    width: 287px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 900;
+    margin-bottom: 11px;
+}
+
+.conteudo .descricao p {
+    width: 300px;
+    color: #fff;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.formulario .form {
+    height: 378px;
+    width: 340px;
+    box-shadow: rgba(0, 0, 0, 0.3);
+    background-color: #ffff;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.input-text {
+    width: 298px;
+    height: 35px;
+    border-radius: 5px;
+    border: 1px solid #000;
+    background: #FFF;
+    padding: 10px;
+    margin-top: 15px;
+    margin-bottom: -10px;
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.input-text.mensagem {
+    height: 100px;
+    display: flex;
+    padding-bottom: 70px;
+}
+
+
+
+.campo-obrigatorio {
+    color: #F52E2E;
+    font-size: 8px;
+    font-weight: 400;
+    display: flex;
+    margin-top: 8px;
+    visibility: hidden;
+}
+
+.formulario .form p {
+    margin-left: -11rem;
+    margin-top: 2px;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+button {
+    cursor: pointer;
+    width: 298px;
+    height: 40px;
+    margin-top: 10px;
+    background-color: #3CCC87;
+    border: 1px #3CCC87 solid;
+    border-radius: 5px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.erro {
+    visibility: visible;
+}
+
+.campo-preenchido {
+    border: 1px solid green;
+}
+
+.n-preenchido{
+    border: 1px solid red;
+}
