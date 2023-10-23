@@ -7,6 +7,10 @@ e aparecer um aviso de "campo obrigatório" na cor vermelha. Caso os campos esti
 ![](./src/imagem/gif-project.gif)
 <br>
 
+## Deployment
+
+https://suelenscardoso.github.io/validando-formulario/
+
 ## Técnologias Utilizadas:
 
  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> 
