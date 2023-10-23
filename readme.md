@@ -9,7 +9,7 @@ e aparecer um aviso de "campo obrigatório" na cor vermelha. Caso os campos esti
 
 ### Deployment
 
-[Formulário](https://suelenscardoso.github.io/validando-formulario/)
+![Formulário](https://suelenscardoso.github.io/validando-formulario/)
 
 ## Técnologias Utilizadas:
 
@@ -20,5 +20,4 @@ e aparecer um aviso de "campo obrigatório" na cor vermelha. Caso os campos esti
 
 ### Redes:
 
-- Linkedin - <a href="https://www.linkedin.com/in/suelen-cardoso-5aa786140" target="_blank">
 - GitHub - [Suelen Cardoso](https://github.com/SuelenSCardoso/)
