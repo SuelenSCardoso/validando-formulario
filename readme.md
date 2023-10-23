@@ -9,7 +9,7 @@ e aparecer um aviso de "campo obrigatório" na cor vermelha. Caso os campos esti
 
 ### Deployment
 
-![](https://suelenscardoso.github.io/validando-formulario/)
+![Formulário](https://suelenscardoso.github.io/validando-formulario/)
 
 ## Técnologias Utilizadas:
 
