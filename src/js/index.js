@@ -3,7 +3,8 @@ const caixaTexto = document.querySelectorAll('.input-text');
 const span = document.querySelectorAll('.campo-obrigatorio');
 
 
-bntEnviar.addEventListener('click', () => {
+bntEnviar.addEventListener('click', (e) => {
+    e.preventDefault()
      caixaTexto.forEach(function (input, indice)  {     
          if (input.value === "") {
              input.classList.remove("campo-preenchido");

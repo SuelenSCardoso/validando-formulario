@@ -63,6 +63,7 @@ main {
     height: 100px;
     display: flex;
     padding-bottom: 70px;
+    resize: none;
 }
 
 
