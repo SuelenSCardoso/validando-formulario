@@ -20,5 +20,5 @@ e aparecer um aviso de "campo obrigatório" na cor vermelha. Caso os campos esti
 
 ### Redes:
 
-- Linkedin - [Suelen Cardoso](www.linkedin.com/in/suelen-s-cardoso/)
+- Linkedin - <a href="https://www.linkedin.com/in/suelen-cardoso-5aa786140" target="_blank">
 - GitHub - [Suelen Cardoso](https://github.com/SuelenSCardoso/)
