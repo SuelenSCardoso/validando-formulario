@@ -7,9 +7,9 @@ e aparecer um aviso de "campo obrigatório" na cor vermelha. Caso os campos esti
 ![](./src/imagem/gif-project.gif)
 <br>
 
-## Deployment
+### Deployment
 
-https://suelenscardoso.github.io/validando-formulario/
+![](https://suelenscardoso.github.io/validando-formulario/)
 
 ## Técnologias Utilizadas:
 
