@@ -20,4 +20,4 @@ e aparecer um aviso de "campo obrigatório" na cor vermelha. Caso os campos esti
 
 ### Redes:
 
-- GitHub - [Suelen Cardoso](https://github.com/SuelenSCardoso/)
+- Linkedin - [Suelen Cardoso](https://www.linkedin.com/in/suelen-s-cardoso/)
